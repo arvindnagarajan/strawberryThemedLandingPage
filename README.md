@@ -1,2 +1,2 @@
 # strawberryThemedLandingPage
-A HTML and CSS mockup design focusing on strawberries
+A HTML and CSS mockup design revolving around strawberries
